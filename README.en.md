@@ -7,10 +7,10 @@
 A small background utility that fixes a Windows issue where the auto-hidden
 taskbar does not appear after moving the cursor to the bottom edge of the screen.
 
-The issue is especially common over maximized browser windows, including Google
-Chrome. Taskbar Edge Fixer watches the bottom edge of the screen and gently helps
-the taskbar appear without opening the Start menu or stealing focus from the
-current application.
+The issue is especially common with maximized browser windows, including Google
+Chrome, and other applications. Taskbar Edge Fixer watches the bottom edge of the
+screen and gently helps the taskbar appear without opening the Start menu or
+stealing focus from the current application.
 
 **Version:** 1.0.0  
 **Author:** [CodoMagia](https://github.com/codomagia)  
