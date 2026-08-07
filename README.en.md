@@ -4,7 +4,7 @@
 
 <img align="right" src="assets/logo.png" alt="Taskbar Edge Fixer" width="220" height="220">
 
-A small background utility for Windows that fixes the case when the auto-hidden
+A small background utility that fixes a Windows issue where the auto-hidden
 taskbar does not appear after moving the cursor to the bottom edge of the screen.
 
 The issue is especially common over maximized browser windows, including Google
