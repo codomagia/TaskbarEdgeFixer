@@ -51,7 +51,6 @@ Double-click the tray icon to open Settings.
 ### Settings
 
 - **Poll interval**
-- **Activation zone height**
 - **Activation delay**
 - **Re-arm distance**
 - **Work on all monitors**
