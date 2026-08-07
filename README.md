@@ -19,6 +19,10 @@ Google Chrome, и других приложений. Taskbar Edge Fixer отсл
 
 Готовые сборки — в [Releases](https://github.com/codomagia/TaskbarEdgeFixer/releases).
 
+## Демонстрация
+
+![Демонстрация Taskbar Edge Fixer](assets/demo.gif)
+
 ## Скачать
 
 1. Откройте [последний Release](https://github.com/codomagia/TaskbarEdgeFixer/releases/latest).

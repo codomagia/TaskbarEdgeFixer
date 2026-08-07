@@ -19,6 +19,10 @@ stealing focus from the current application.
 Builds are available in
 [Releases](https://github.com/codomagia/TaskbarEdgeFixer/releases).
 
+## Demo
+
+![Taskbar Edge Fixer demo](assets/demo.gif)
+
 ## Download
 
 1. Open the [latest Release](https://github.com/codomagia/TaskbarEdgeFixer/releases/latest).
